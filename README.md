@@ -1,4 +1,4 @@
-<img src="https://github.com/tinn01/tinn01/blob/main/images/gitbanner3.png?raw=true" width="100%">
+<img src="https://github.com/tinn01/tinn01/blob/main/images/gitbanner1.png?raw=true" width="100%">
 
 * * *
 
