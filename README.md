@@ -5,7 +5,7 @@
 **About me:**
 - 💻 I'm web developer
 - ⚛️ JavaScript | NodeJS | React
-- 🚀 I'm interested in: Web3
+- 🚀 I'm interested in: Web3, ReactNative
 - 📝 I'm studying about Landing Pages
 - ✨ Digital Marketing Enthusiast
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/albertoguedes/)
