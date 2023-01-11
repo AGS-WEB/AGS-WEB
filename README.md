@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="https://github.com/tinn01/tinn01/blob/main/images/gitbanner3.png?raw=true" width="100%">
 
-<!--
-**tinn01/tinn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* * *
 
-Here are some ideas to get you started:
+**About me:**
+- 💻 I'm web developer
+- ⚛️ JavaScript | NodeJS | React
+- 🚀 I'm interested in: Web3
+- 📝 I'm studying about Landing Pages
+- ✨ Digital Marketing Enthusiast
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/albertoguedes/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+**Languages and tools:**
+
+<img align="left" height="20" src="https://github.com/tinn01/tinn01/blob/main/images/react.png">
+<img align="left" height="20" src="https://github.com/tinn01/tinn01/blob/main/images/javascript.png">
+<img align="left" height="20" src="https://github.com/tinn01/tinn01/blob/main/images/nodejs.png">
